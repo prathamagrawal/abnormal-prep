@@ -1,0 +1,3 @@
+Hello world!
+Hello Python.
+Python is awesome.
