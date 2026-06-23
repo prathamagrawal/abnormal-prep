@@ -65,7 +65,6 @@ docker-compose up --build
 
 ## 📝 API Documentation
 
-
 **Full reference with curl examples:** [docs/API.md](docs/API.md)
 
 Includes endpoints, deduplication behavior, rate limits, storage quota, logging, and test commands using sample files.
